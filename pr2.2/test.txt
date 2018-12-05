@@ -1,0 +1,6 @@
+Nikita;User;321
+Lera;Admin;123467
+MouseBoy;User;12456457
+Genius;User;6543
+Poter;Admin;876543
+Folder;Admin;123456
